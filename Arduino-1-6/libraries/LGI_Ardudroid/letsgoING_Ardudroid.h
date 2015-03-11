@@ -63,7 +63,7 @@ public:
 	//****************************************************************** 
 	void BTsoftSerial_begin(int Baud);	
 	void BTserial_begin(int Baud);
-	void BTgrove_setup(String btName, String btCode, int btBaud);
+	void BTgrove_setup(String btName, String btCode, String oldBaud, String newBaud);
 	//getter
 	//******************************************************************
 	//Fernsteuerung
