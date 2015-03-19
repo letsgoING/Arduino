@@ -6,7 +6,7 @@ attiny45-8.bootloader.unlock_bits=0xff
 attiny45-8.bootloader.lock_bits=0xff
 
 attiny45-8.bootloader.low_fuses=0xe2
-attiny45-8.bootloader.high_fuses=0xde
+attiny45-8.bootloader.high_fuses=0xd4
 attiny45-8.bootloader.extended_fuses=0xff
 attiny45-8.upload.maximum_size=4096
 
@@ -27,7 +27,7 @@ attiny85-8.bootloader.unlock_bits=0xff
 attiny85-8.bootloader.lock_bits=0xff
 
 attiny85-8.bootloader.low_fuses=0xe2
-attiny85-8.bootloader.high_fuses=0xde
+attiny85-8.bootloader.high_fuses=0xd4
 attiny85-8.bootloader.extended_fuses=0xff
 attiny85-8.upload.maximum_size=8192
 
@@ -48,7 +48,7 @@ attiny44-8.bootloader.unlock_bits=0xff
 attiny44-8.bootloader.lock_bits=0xff
 
 attiny44-8.bootloader.low_fuses=0xe2
-attiny44-8.bootloader.high_fuses=0xde
+attiny44-8.bootloader.high_fuses=0xd4
 attiny44-8.bootloader.extended_fuses=0xff
 attiny44-8.upload.maximum_size=4096
 
@@ -69,7 +69,7 @@ attiny84-8.bootloader.unlock_bits=0xff
 attiny84-8.bootloader.lock_bits=0xff
 
 attiny84-8.bootloader.low_fuses=0xe2
-attiny84-8.bootloader.high_fuses=0xde
+attiny84-8.bootloader.high_fuses=0xd4
 attiny84-8.bootloader.extended_fuses=0xff
 attiny84-8.upload.maximum_size=8192
 
