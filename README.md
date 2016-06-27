@@ -3,13 +3,13 @@ Arduino IDE in der Version 1.6.7 und die Erweiterung für das letsgoING-Programm
 - ArduBlock ind der letsgoING-Variante [http://blog.ardublock.com/](http://blog.ardublock.com/)
 - letsgoING-Libraries
 - Attiny-Package
-- Micronucleus-Treiber
+- Micronucleus-Treiber [https://github.com/micronucleus](https://github.com/micronucleus)
 
-# Verwendung der Attiny-Platine
+## Verwendung der Attiny-Platine ##
 Um die Attiny-Platine verwenden zu können, muss zuerst der Micronucleus-Treiber installiert werden.
 Dazu kann der Zadig-Installer verwendet werden (Tools/DriverInstaller).
 
-## Windows Treiber-Installation mit Zadig ##
+### Windows Treiber-Installation mit Zadig ###
 Zadig ist ein automatisiertes Treiber-Installationswerkzeug für libusb-Geräte.
 Die neueste Version fidet man hier [http://zadig.akeo.ie/](http://zadig.akeo.ie/). Unter "tools/DriverInstaller" findet man eine Kopie.
 
